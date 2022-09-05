@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/42d44n76d50/ithaca/?unit=us" data-label_1="Ithaca" data-label_2="WEATHER" data-icons="Climacons Animated" data-theme="original" data-basecolor="rgb(255, 253, 246)" data-accent="rgb(255, 253, 246)" data-textcolor="rgb(124, 172, 122)" data-highcolor="rgb(124, 172, 122)" data-lowcolor="rgb(124, 172, 122)" data-suncolor="rgb(124, 172, 122)" data-mooncolor="rgb(124, 172, 122)" data-cloudcolor="rgb(124, 172, 122)" data-cloudfill="rgb(255, 253, 246)" data-raincolor="rgb(124, 172, 122)" data-snowcolor="rgb(124, 172, 122)" >Ithaca WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
